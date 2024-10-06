@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/garage/static/css/main.c19918f8.css",
-    "main.js": "/garage/static/js/main.f811534c.js",
+    "main.js": "/garage/static/js/main.23414d11.js",
     "static/js/453.a8e37d70.chunk.js": "/garage/static/js/453.a8e37d70.chunk.js",
     "static/media/Fuzja.pdf": "/garage/static/media/Fuzja.4919234481ed02ee5241.pdf",
     "index.html": "/garage/index.html",
     "main.c19918f8.css.map": "/garage/static/css/main.c19918f8.css.map",
-    "main.f811534c.js.map": "/garage/static/js/main.f811534c.js.map",
+    "main.23414d11.js.map": "/garage/static/js/main.23414d11.js.map",
     "453.a8e37d70.chunk.js.map": "/garage/static/js/453.a8e37d70.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c19918f8.css",
-    "static/js/main.f811534c.js"
+    "static/js/main.23414d11.js"
   ]
 }
