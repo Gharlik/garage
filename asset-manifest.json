@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/garage/static/css/main.3c217526.css",
-    "main.js": "/garage/static/js/main.d5d91d4c.js",
+    "main.js": "/garage/static/js/main.42ced396.js",
     "static/js/453.a8e37d70.chunk.js": "/garage/static/js/453.a8e37d70.chunk.js",
     "static/media/wzma.pdf": "/garage/static/media/wzma.569eced7688ec84d2bf7.pdf",
-    "static/media/Fuzja.pdf": "/garage/static/media/Fuzja.4919234481ed02ee5241.pdf",
+    "static/media/Fuzja.pdf": "/garage/static/media/Fuzja.8b79afbcb2eb7194a05e.pdf",
     "static/media/alko.pdf": "/garage/static/media/alko.853b69c656201a36f647.pdf",
     "static/media/przed.pdf": "/garage/static/media/przed.87f060e27b16bd6ebe5e.pdf",
     "static/media/wzma.png": "/garage/static/media/wzma.9fb8ea8ebfa1c990055f.png",
@@ -14,11 +14,11 @@
     "static/media/image.png": "/garage/static/media/image.0ec08a57a16d58fb9b31.png",
     "index.html": "/garage/index.html",
     "main.3c217526.css.map": "/garage/static/css/main.3c217526.css.map",
-    "main.d5d91d4c.js.map": "/garage/static/js/main.d5d91d4c.js.map",
+    "main.42ced396.js.map": "/garage/static/js/main.42ced396.js.map",
     "453.a8e37d70.chunk.js.map": "/garage/static/js/453.a8e37d70.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c217526.css",
-    "static/js/main.d5d91d4c.js"
+    "static/js/main.42ced396.js"
   ]
 }
