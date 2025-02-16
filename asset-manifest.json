@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/garage/static/css/main.2308630f.css",
-    "main.js": "/garage/static/js/main.527f881a.js",
+    "main.js": "/garage/static/js/main.06e01cce.js",
     "static/js/453.a8e37d70.chunk.js": "/garage/static/js/453.a8e37d70.chunk.js",
     "static/media/wzma.pdf": "/garage/static/media/wzma.569eced7688ec84d2bf7.pdf",
     "static/media/Fuzja.pdf": "/garage/static/media/Fuzja.79546c175148d314052d.pdf",
@@ -14,16 +14,16 @@
     "static/media/nixe.jpg": "/garage/static/media/nixe.abd13149eed6caffe84f.jpg",
     "static/media/przed.png": "/garage/static/media/przed.e9c2bdd9b89d4f63d784.png",
     "static/media/fuzja.jpg": "/garage/static/media/fuzja.40a70a10bd1e66faf45f.jpg",
-    "static/media/image.png": "/garage/static/media/image.0ec08a57a16d58fb9b31.png",
     "static/media/alko.jpg": "/garage/static/media/alko.6375e97e25149ba42b91.jpg",
     "static/media/przeswietlenie.jpeg": "/garage/static/media/przeswietlenie.114544144eeb7cf33dd7.jpeg",
+    "static/media/image.png": "/garage/static/media/image.70d9ff52b67db8d5926f.png",
     "index.html": "/garage/index.html",
     "main.2308630f.css.map": "/garage/static/css/main.2308630f.css.map",
-    "main.527f881a.js.map": "/garage/static/js/main.527f881a.js.map",
+    "main.06e01cce.js.map": "/garage/static/js/main.06e01cce.js.map",
     "453.a8e37d70.chunk.js.map": "/garage/static/js/453.a8e37d70.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2308630f.css",
-    "static/js/main.527f881a.js"
+    "static/js/main.06e01cce.js"
   ]
 }
