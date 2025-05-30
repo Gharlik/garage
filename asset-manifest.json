@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/garage/static/css/main.2308630f.css",
-    "main.js": "/garage/static/js/main.de984fff.js",
+    "main.js": "/garage/static/js/main.9d505df5.js",
     "static/js/453.a8e37d70.chunk.js": "/garage/static/js/453.a8e37d70.chunk.js",
+    "static/media/Fuzja.pdf": "/garage/static/media/Fuzja.5e2b893d948e1adf7e85.pdf",
     "static/media/wzma.pdf": "/garage/static/media/wzma.569eced7688ec84d2bf7.pdf",
-    "static/media/Fuzja.pdf": "/garage/static/media/Fuzja.5ec49eb9d89e5e2e91bd.pdf",
     "static/media/plytka.jpg": "/garage/static/media/plytka.d564f5ad4e63bfb055ba.jpg",
     "static/media/rentgen.jpg": "/garage/static/media/rentgen.2fe97a1f5c57ea54a7c5.jpg",
     "static/media/alko.pdf": "/garage/static/media/alko.853b69c656201a36f647.pdf",
@@ -19,11 +19,11 @@
     "static/media/image.png": "/garage/static/media/image.70d9ff52b67db8d5926f.png",
     "index.html": "/garage/index.html",
     "main.2308630f.css.map": "/garage/static/css/main.2308630f.css.map",
-    "main.de984fff.js.map": "/garage/static/js/main.de984fff.js.map",
+    "main.9d505df5.js.map": "/garage/static/js/main.9d505df5.js.map",
     "453.a8e37d70.chunk.js.map": "/garage/static/js/453.a8e37d70.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2308630f.css",
-    "static/js/main.de984fff.js"
+    "static/js/main.9d505df5.js"
   ]
 }
